@@ -61,41 +61,6 @@ Acredito que código limpo, bem testado e documentado é a base para sistemas co
 
 ---
 
-## 📊 Estatísticas GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RullerDEV&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2F80ED&icon_color=2F80ED&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RullerDEV&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2F80ED&text_color=C9D1D9&langs_count=8"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight&hide_border=true&background=0D1117&stroke=2F80ED&ring=2F80ED&fire=FF6B6B&currStreakLabel=C9D1D9" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 🚀 Foco Atual & Objetivos
-
-```typescript
-const currentFocus = {
-  architecture: "Microservices & Event-Driven Design",
-  learning: ["Rust", "Go", "System Design at Scale"],
-  projects: [
-    "High-availability distributed systems",
-    "AI-powered backend automation",
-    "Performance optimization frameworks"
-  ],
-  goals: {
-    shortTerm: "Contribute to open-source backend projects",
-    longTerm: "Architect systems handling millions of requests/day"
-  }
-}
-```
-
 ### 📌 Princípios de Trabalho
 
 - ✅ **Code Quality First**: Clean code é código que outros desenvolvedores entendem
@@ -112,11 +77,7 @@ Estou sempre aberto a projetos desafiadores, colaborações em open-source e dis
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-seuemail@exemplo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
-[![Website](https://img.shields.io/badge/Website-seudominio.com-2F80ED?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seudominio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEU-USUARIO)
-
+[![Email](https://img.shields.io/badge/rullerx64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)\
 </div>
 
 ---
@@ -125,6 +86,6 @@ Estou sempre aberto a projetos desafiadores, colaborações em open-source e dis
 
 ### 💡 "Good code is its own best documentation" — Steve McConnell
 
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&color=2F80ED&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=RullerDEV&color=2F80ED&style=for-the-badge&label=Profile+Views" alt="Profile Views"/>
 
 </div>
