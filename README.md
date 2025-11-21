@@ -77,7 +77,7 @@ Estou sempre aberto a projetos desafiadores, colaborações em open-source e dis
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/rullerx64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)\
+[![Email](https://img.shields.io/badge/rullerx64@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@exemplo.com)
 </div>
 
 ---
